@@ -1,0 +1,1 @@
+fileName : input.txt, numberOfElites : 2, populationSize : 20, maxGenerations : 1000, dataPointFrequency : 1, numberOfParents : 2, numberOfCrossoverPoints : 2, probabilityCrossover : 0.7, probabilityMutate : 0.3, paTournamentSize : 2, parentAlgo : 2, cpMode : 0, penalty : 0.1  
